@@ -36,27 +36,6 @@ Get funding for your ideas and initiatives — especially if you're working on:
 - Community outreach or training
 - Open Internet advocacy
 
-### 6. 🌟 Success Stories
-Explore case studies, policy influence, personal journeys from people and communities that have made meaningful impact in the IG space.
-
-### 7. 📇 IGF Personalities
-A living list of influential voices to follow and learn from — across tech policy, activism, and thought leadership.
-
----
-
-## 👩🏽‍💻 Youth IGF Zone
-
-A dedicated section for young people in IG spaces.
-
-### 🔸 Youth IGF Speaker Bank
-Browse youth speakers and subject matter experts — or add your name to the list.
-
-### 🔸 How to Start a Youth IGF
-Templates, guides, and real examples to help you build your own national or regional youth initiative.
-
-### 🔸 Past Youth IGF Reports & Outcomes
-Read what other youth communities have done — and get inspired to build your own.
-
 ---
 
 ## 📂 IGF Documents & Toolkits
@@ -76,6 +55,14 @@ You can also:
 - Fork the repo and submit a pull request
 - Open a GitHub Issue with ideas or corrections
 - Or express interest in joining the review team!
+
+## 🌐 Part of the IG Ecosystem
+
+This repository is maintained alongside the [Internet Governance Impact](https://github.com/Botsyoelily/internetgovernance-impact).
+
+Head over to be inspired by success stories in the Internet Governance Ecosystem and learn from the expertise of youth speakers.
+
+**Questions?** Open an issue or reach out to the maintainers!
 
 
 ---
