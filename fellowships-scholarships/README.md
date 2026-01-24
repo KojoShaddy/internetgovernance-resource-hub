@@ -30,9 +30,15 @@ A curated list of conferences covering Internet Governance, Tech Policy, Cyberse
 ---
 
 ### 🗓 February 2026
+
 - **[The International Conference on Digital Platform Governance 2026](https://www.unesco.org/en/articles/international-conference-digital-platform-governance-2026)** 🌍 **Region:** Africa (Pretoria, South Africa)
 📅 **Date:** February 11-13, 2026 
 💰 **Funding:** No 
+🗓 **Application Deadline:** (Applications currently open!).
+
+- **[India AI Impact Summit](https://impact.indiaai.gov.in/)** 🌍 **Region:** Asia (New Delhi, India)  
+📅 **Date:** February 16-20, 2026  
+💰 **Funding:** No  
 🗓 **Application Deadline:** (Applications currently open!).
 
 - 
@@ -73,6 +79,13 @@ A curated list of conferences covering Internet Governance, Tech Policy, Cyberse
 🗓 **Application Deadline:** NextGen applications open Dec 1, 2025 – Jan 9, 2026.
 
 ---
+
+### 🗓 August 2026
+
+
+
+---
+
 
 ### 🗓 October 2026
 
