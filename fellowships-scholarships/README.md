@@ -39,6 +39,11 @@ A curated list of conferences covering Internet Governance, Tech Policy, Cyberse
 
 ### 🗓 February 2026
 
+- **[APIGA Australia](https://www.auda.org.au/public-impact/internet-governance-and-public-policy/apiga-au/)** 🌍 **Region:** Australia (Melbourne, Australia)  
+📅 **Date:** February 10-12, 2026  
+💰 **Funding:** No  
+🗓 **Application Deadline:** (Applications currently closed!).
+
 - **[The International Conference on Digital Platform Governance 2026](https://www.unesco.org/en/articles/international-conference-digital-platform-governance-2026)** 🌍 **Region:** Africa (Pretoria, South Africa)
 📅 **Date:** February 11-13, 2026 
 💰 **Funding:** No 
