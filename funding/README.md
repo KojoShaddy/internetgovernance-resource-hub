@@ -17,20 +17,11 @@ Explore funding sources and grant programs that support Internet Governance init
 
 ### 🗓 January 2026
 - **[Program Name](https://igf.tt/)** 🌍 **Eligible Regions:** Caribbean (Hybrid/Port of Spain)   
-✅ **Type:
+✅**Type: 
 💰**Funding Amount:** Limited (Local support usually available)  
 🗓 **Application Deadline:** .
 
 ---
-
-
-| Program Name | Link | Type | Eligible Regions | Funding Amount | Application Deadline |
-|--------------|------|------|------------------|----------------|-----------------------|
-| [Internet Society Foundation - Research Grant](https://www.isocfoundation.org/) | Research Grant | Global | Up to $200,000 | May 2025 |
-| [RIPE NCC Community Projects Fund](https://www.ripe.net/support/cpf) | Community Grant | Europe, Central Asia | €20,000 max | Sept 2025 |
-| [APNIC Foundation Grants](https://apnic.foundation/) | Various | Asia-Pacific | Varies | Varies |
-| [NLnet Foundation](https://nlnet.nl/) | Open Tech Grants | Global | Up to €50,000 | Rolling |
-| [Mozilla Open Source Support (MOSS)](https://www.mozilla.org/en-US/moss/) | Open Source Grant | Global | Varies | Rolling |
 
 ---
 
