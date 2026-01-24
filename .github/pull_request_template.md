@@ -1,6 +1,6 @@
 # 🚀 Pull Request Template
 
-Thank you for contributing to IGF Commons!  
+Thank you for contributing to Internet Governance Resource Hub!  
 Please fill out the sections below to help us understand your contribution.
 
 ---
