@@ -12,6 +12,16 @@ Whether you're looking to **attend**, **speak at**, or **submit proposals**, thi
 
 ---
 
+## ✅ How to Contribute
+
+To add or update an event:
+- Fork the repo and edit this file
+- Open a GitHub Issue with event details
+- Or submit them via our [event submission form](https://docs.google.com/document/d/1u4EoAZwCoR0oOo0BPQ4ZCClFrM7Bo8cxHFQtz9M1TRw/edit?tab=t.0)
+
+Let’s keep the IG community connected and informed.
+
+
 # 🌐 Global Digital Policy & Governance Conferences 2026
 
 A curated list of conferences covering Internet Governance, Tech Policy, Cybersecurity, and Digital Rights.
@@ -118,12 +128,3 @@ A curated list of conferences covering Internet Governance, Tech Policy, Cyberse
 ### 🗓 October 2026
 
 ---
-
-## ✅ How to Contribute
-
-To add or update an event:
-- Fork the repo and edit this file
-- Open a GitHub Issue with event details
-- Or submit them via our [event submission form](#) *(coming soon)*
-
-Let’s keep the IG community connected and informed.
