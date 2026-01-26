@@ -4,9 +4,18 @@ A curated list of fellowships, scholarships, and mentorship programs that suppor
 
 Use this list to explore opportunities to grow your knowledge, network, and impact.
 
+## ✅ How to Contribute
+
+To add or update an opportunity:
+- Fork the repo and edit this file, or
+- Open a GitHub Issue with opportunity details, or
+- Submit via the [contribution form](#) *(coming soon)*
+
+Let’s help more youth and early-career professionals engage in shaping digital policy!
+
 ---
 
-## 📆 2025 Opportunities
+## 📆 2026 Opportunities
 
 # 🌐 Global Digital Policy & Governance Conferences 2026
 
@@ -108,11 +117,4 @@ A curated list of conferences covering Internet Governance, Tech Policy, Cyberse
 ---
 ---
 
-## ✅ How to Contribute
 
-To add or update an opportunity:
-- Fork the repo and edit this file, or
-- Open a GitHub Issue with opportunity details, or
-- Submit via the [contribution form](#) *(coming soon)*
-
-Let’s help more youth and early-career professionals engage in shaping digital policy!
