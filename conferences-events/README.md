@@ -48,6 +48,11 @@ A curated list of conferences covering Internet Governance, Tech Policy, Cyberse
 💰 **Funding:** No  
 🗓 **Application Deadline:** Ended.
 
+- **[The International Conference on Digital Platform Governance 2026](https://www.unesco.org/en/articles/international-conference-digital-platform-governance-2026)** 🌍 **Region:** Africa (Pretoria, South Africa)  
+📅 **Date:** February 11-13, 2026  
+💰 **Funding:** No  
+🗓 **Application Deadline:** Registration ongoing.
+
 ---
 
 ### 🗓 March 2026
