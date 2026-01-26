@@ -105,14 +105,18 @@ A curated list of conferences covering Internet Governance, Tech Policy, Cyberse
 
 ### 🗓 June 2026
 
+- **[ARIN 57 Public Meeting](https://arin.swoogo.com/arin57?i=05nkimj-5O6pwCTLfL78JoLwEboWrUn8)** 🌍 **Region:** North America (Louisville, Kentucky & Online)
+📅 **Date:** April 19–22, 2026 
+💰 **Funding:** Yes (Fellowship Program - Travel & Virtual) 
+🗓 **Application Deadline:** January 26, 2026 (Applications currently open!).
 
 ---
 ### 🗓 July 2026
 
-- **[Fellowship in AΙ Ethics](https://greece.chs.harvard.edu/research-fellowships/ai-ethics)** 🌍 **Region:** Europe (Greece)  
-📅 **Date:** July 1, 2026 - June 30, 2027  
-💰 **Funding:** Yes ($12,000)  
-🗓 **Application Deadline:** December 8, 2025 - February 6, 2026.
+- **[AI Policy Fellowship](https://www.iaps.ai/fellowship)** 🌍 **Region:** North America and Online (Washington DC, United States of America)  
+📅 **Date:** July 1st - August 21st, 2026.  
+💰 **Funding:** Yes   
+🗓 **Application Deadline:** February 2nd, 2026.
 
 
 
