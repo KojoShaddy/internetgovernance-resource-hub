@@ -93,7 +93,30 @@ A curated list of conferences covering Internet Governance, Tech Policy, Cyberse
 💰 **Funding:** No  
 🗓 **Application Deadline:** (Applications currently open!).
 
-- 
+ - **[Carr-Ryan Center Fellowship](https://www.hks.harvard.edu/centers/carr-ryan/opportunities/fellowship-opportunities/carr-ryan-center-fellowship)** 🌍 **Region:** North America (Cambridge, MA & Virtual)  
+  📅 **Date:** September 1, 2026 – June 30, 2027  
+  💰 **Funding:** Unpaid Affiliation  
+  🗓️ **Application Deadline:** February 22, 2026 (Applications currently open!)
+
+- **[Technology and Human Rights Fellowship](https://www.hks.harvard.edu/centers/carr-ryan/opportunities/fellowship-opportunities/technology-and-human-rights-fellowship)** 🌍 **Region:** North America (Cambridge, MA & Virtual)  
+  📅 **Date:** September 1, 2026 – June 30, 2027  
+  💰 **Funding:** Unpaid Affiliation  
+  🗓️ **Application Deadline:** February 22, 2026 (Applications currently open!)
+
+- **[Racial Justice Fellowship](https://www.hks.harvard.edu/centers/carr-ryan/opportunities/fellowship-opportunities/racial-justice-fellowship)** 🌍 **Region:** North America (Cambridge, MA & Virtual)  
+  📅 **Date:** September 1, 2026 – June 30, 2027  
+  💰 **Funding:** Unpaid Affiliation  
+  🗓️ **Application Deadline:** February 22, 2026 (Applications currently open!)
+
+- **[Global LGBTQI+ Human Rights Fellowship](https://www.hks.harvard.edu/centers/carr-ryan/opportunities/fellowship-opportunities/global-lgbtqi-human-rights-fellowship)** 🌍 **Region:** North America (Cambridge, MA & Virtual)  
+  📅 **Date:** September 1, 2026 – June 30, 2027  
+  💰 **Funding:** Unpaid Affiliation  
+  🗓️ **Application Deadline:** February 22, 2026 (Applications currently open!)
+
+- **[LGBTQI+ Leadership Fellowship](https://www.hks.harvard.edu/centers/carr-ryan/opportunities/fellowship-opportunities/lgbtqi-leadership-fellowship)** 🌍 **Region:** North America (Cambridge, MA & Virtual)  
+  📅 **Date:** September 1, 2026 – June 30, 2027  
+  💰 **Funding:** Unpaid Affiliation  
+  🗓️ **Application Deadline:** February 22, 2026 (Applications currently open!)
 ---
 
 ### 🗓 March 2026
