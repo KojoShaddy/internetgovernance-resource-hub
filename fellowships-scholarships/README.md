@@ -33,16 +33,6 @@ A curated list of conferences covering Internet Governance, Tech Policy, Cyberse
 * [October](#-october-2026)
 
 ---
-### 🗓 Fellowships with extended duration
-
-- **[ECoWYERT Project Youth Advisory Group](https://www.undp.org/zambia/news/call-expressions-interest-ecowyert-project-youth-advisory-group)** 🌍 **Region:** Africa (Botswana, DR Congo, Malawi, South Africa, Zambia and Zimbabwe)  
-📅 **Date:** Five-year project (2026–2030)  
-💰 **Funding:** Yes  
-🗓 **Application Deadline:** 25 January 2026.
-
----
-
----
 ### 🗓 January 2026
 
 - **[ICANN86 Policy Forum](https://www.icann.org/en/announcements/details/call-for-applications-nextgenicann86-01-12-2025-en)** 🌍 **Region:** Europe (Seville, Spain)  
@@ -50,10 +40,20 @@ A curated list of conferences covering Internet Governance, Tech Policy, Cyberse
 💰 **Funding:** Yes (NextGen@ICANN & Fellowship)  
 🗓 **Application Deadline:** NextGen applications open Dec 1, 2025 – Jan 9, 2026.
 
+- **[ECoWYERT Project Youth Advisory Group](https://www.undp.org/zambia/news/call-expressions-interest-ecowyert-project-youth-advisory-group)** 🌍 **Region:** Africa (Botswana, DR Congo, Malawi, South Africa, Zambia and Zimbabwe)  
+📅 **Date:** Five-year project (2026–2030)  
+💰 **Funding:** Yes  
+🗓 **Application Deadline:** 25 January 2026.
+
 - **[ARIN 57 Public Meeting](https://arin.swoogo.com/arin57?i=05nkimj-5O6pwCTLfL78JoLwEboWrUn8)** 🌍 **Region:** North America (Louisville, Kentucky & Online)
 📅 **Date:** April 19–22, 2026 
 💰 **Funding:** Yes (Fellowship Program - Travel & Virtual) 
 🗓 **Application Deadline:** January 26, 2026 (Applications currently open!).
+
+- **[Internet and Society Fellowship 2026](https://www.hiig.de/en/call-for-applications-fellowship-2026/)** 🌍 **Region:** Central Europe(Berlin, Germany)
+📅 **Date:** June 1-July 18, 2026.
+💰 **Funding:** No
+🗓 **Application Deadline:** January 31, 2026 (Applications currently open!).
 ---
 
 ### 🗓 February 2026
