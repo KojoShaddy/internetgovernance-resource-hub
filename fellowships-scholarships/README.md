@@ -24,6 +24,16 @@ A curated list of conferences covering Internet Governance, Tech Policy, Cyberse
 * [October](#-october-2026)
 
 ---
+### 🗓 Fellowships with extended duration
+
+- **[ECoWYERT Project Youth Advisory Group](https://www.undp.org/zambia/news/call-expressions-interest-ecowyert-project-youth-advisory-group)** 🌍 **Region:** Africa (Botswana, DR Congo, Malawi, South Africa, Zambia and Zimbabwe)  
+📅 **Date:** Five-year project (2026–2030)  
+💰 **Funding:** Yes  
+🗓 **Application Deadline:** 25 January 2026.
+
+---
+
+---
 ### 🗓 January 2026
 
 - **[ICANN86 Policy Forum](https://www.icann.org/en/announcements/details/call-for-applications-nextgenicann86-01-12-2025-en)** 🌍 **Region:** Europe (Seville, Spain)  
