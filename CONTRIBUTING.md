@@ -5,7 +5,7 @@ This is a community-driven project — and we welcome your ideas, updates, and i
 
 ---
 
-## 📌 Ways to Contribute
+## 📌 Ways to 
 
 - 🗓 Add or update conferences, fellowships, or jobs
 - 📚 Share IGF-related documents or starter guides
